@@ -1,0 +1,8 @@
+{
+  "productName": "viteElectronTest",
+  "files": ["./electron/main.js", "./dist/**/*"],
+  "extraFiles": ["./videos", "./cvideo"], // 保留的文件夹
+  "directories": {
+    "output": "./buileder"
+  }
+}
